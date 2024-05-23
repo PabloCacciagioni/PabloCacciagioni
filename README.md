@@ -18,8 +18,8 @@ En este espacio encontrarás una colección de mis proyectos personales y colabo
 ##
 
 ### Where to find me:  
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/pablocacciagioni)
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)(https://x.com/pabloo2910) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pablocacciagioni)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/pabloo2910) 
 
 
     
