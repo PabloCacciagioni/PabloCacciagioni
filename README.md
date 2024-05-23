@@ -12,9 +12,12 @@
 ##
 
 In this space you will find a collection of my personal projects and collaborations. I'm always looking for new opportunities to learn and grow, so feel free to explore my work and contact me if you have any questions or ideas for collaboration.
+
 ##
+### Repository statics: 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCacciagioni&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloCacciagioni&show_icons=true&theme=dark)
 ##
 
 ### Where to find me:  
