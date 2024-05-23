@@ -13,7 +13,7 @@
 
 En este espacio encontrarás una colección de mis proyectos personales y colaboraciones. Estoy siempre en busca de nuevas oportunidades para aprender y crecer, así que no dudes en explorar mi trabajo y contactarme si tienes alguna pregunta o idea para colaborar.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCacciagioni&layout=compact)
 
 
 
