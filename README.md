@@ -16,8 +16,9 @@ In this space you will find a collection of my personal projects and collaborati
 ##
 ### Repository statics: 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCacciagioni&layout=compact&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloCacciagioni&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCacciagioni&layout=compact&theme=dark)
+
 ##
 
 ### Where to find me:  
