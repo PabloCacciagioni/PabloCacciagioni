@@ -11,7 +11,7 @@
 
 ##
 
-En este espacio encontrarás una colección de mis proyectos personales y colaboraciones. Estoy siempre en busca de nuevas oportunidades para aprender y crecer, así que no dudes en explorar mi trabajo y contactarme si tienes alguna pregunta o idea para colaborar.
+In this space you will find a collection of my personal projects and collaborations. I'm always looking for new opportunities to learn and grow, so feel free to explore my work and contact me if you have any questions or ideas for collaboration.
 ##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCacciagioni&layout=compact&theme=dark)
