@@ -12,11 +12,14 @@
 ##
 
 En este espacio encontrarás una colección de mis proyectos personales y colaboraciones. Estoy siempre en busca de nuevas oportunidades para aprender y crecer, así que no dudes en explorar mi trabajo y contactarme si tienes alguna pregunta o idea para colaborar.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloCacciagioni&show_icons=true&theme=dark)
+##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCacciagioni&layout=compact&theme=dark)
+##
 
+### Where to find me:  
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/pablocacciagioni)
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)(https://x.com/pabloo2910) 
 
 
     
